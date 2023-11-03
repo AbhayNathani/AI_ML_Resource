@@ -18,4 +18,8 @@ Book Link:
 
 ---
 
+https://playground.tensorflow.org/
+https://poloclub.github.io/cnn-explainer/
+
+
 
